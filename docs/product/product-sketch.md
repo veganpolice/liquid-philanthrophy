@@ -1,6 +1,6 @@
 # Liquid Philanthropy - Product Sketch
 
-/donate cryptocurrency to a portfolio of charities chosen by you and your trusted friends/
+_donate cryptocurrency to a portfolio of charities chosen by you and your trusted friends_
 
 ## Overview
 
