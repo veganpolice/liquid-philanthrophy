@@ -21,35 +21,35 @@ For example, if I saved the charity "The Water Project" which is tagged with the
 
 ## Features
 ### Search for charities
-	- Read about a charity
-	- Save it (star it) 
+- Read about a charity
+- Save it (star it) 
 
 ### Search/find profiles (friends)
-	- View a profile
-         - allocation
-	  - donation history (reports)
-	  - friends
-	-add as a friend
+- View a profile
+  - allocation
+  - donation history (reports)
+  - friends
+  - add as a friend
 
 ### Donate
-	- Donate Now (one time, default total allocation)
-	- Custom donation
-	    - one time / recurring
-	    - Custom allocation (set allocation)
-	    - A single cause (based on default allocation)
-	    - A friend's allocation
-	    - A single charity
+- Donate Now (one time, default total allocation)
+- Custom donation
+  - one time / recurring
+  - Custom allocation (set allocation)
+  - A single cause (based on default allocation)
+  - A friend's allocation
+  - A single charity
 
 ### Set allocation
-	- for donations, % to each cause
-	   - all causes listed
-	   - for each cause, % to each charity OR friend
-	     - your saved charities which match the cause are listed
-	     - friends with allocation to the cause are listed
-	        - their charities which match the cause + % are listed
-	        - their friends with allocation tot eh cause + % are listed
-	           - ... 
-	           - ...
+- for donations, % to each cause
+  - all causes listed
+  - for each cause, % to each charity OR friend
+    - your saved charities which match the cause are listed
+    - friends with allocation to the cause are listed
+      - their charities which match the cause + % are listed
+      - their friends with allocation tot eh cause + % are listed
+        - ... 
+        - ...
 
 ### Report
 - receipts
