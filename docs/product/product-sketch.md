@@ -1,5 +1,7 @@
 # Liquid Philanthropy - Product Sketch
 
+/donate cryptocurrency to a portfolio of charities chosen by you and your trusted friends/
+
 ## Overview
 
 "Causes" can be things like "Climate Change" or "Gender Equality." 
@@ -10,11 +12,10 @@ As a user, I can set the % of my donations which go towards each cause. For exam
 
 For each cause, I can set %s for where my donations go. Donations can go to my chosen charities AND/OR my friends recommendations. 
 
-For example, if I saved the charity "The Water Project" which is tagged with the cause "Human Rights", then I will have the option to set a % of my donations towards "Human Rights" go to "The Water Project." I may also see a % of my donations towards "Human Rights" go to Nikola Radoicic's recommendation. Donations sent to Nikola for Human Rights will go towards his allocation for Human Rights, be that various charities, his friends or a combination thereof.
+For example, if I saved the charity "The Water Project" which is tagged with the cause "Human Rights", then I will have the option to set a % of my donations towards "Human Rights" go to "The Water Project." I may also set the % of my donations which go to "Human Rights" go to Nikola Radoicic's recommendations. Donations sent to Nikola for Human Rights will go towards his allocation for Human Rights, be that various charities, his friends or a combination thereof. Likewise, donations going to "Human Rights" requesting my reccomdation will follow my allocation.
 
 ## "Jobs to be done"
 - donate cryptocurrency to a portfolio of charities chosen by you and your trusted friends
-
 - learn about causes and charities and allocate them as %s of your donation portfolio
 - learn about friends donation portfolios/historys and allocate them %s of your causes
 - track and report on donations + tax forms 
